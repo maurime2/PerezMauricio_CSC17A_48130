@@ -1,0 +1,1 @@
+Allow git to show empty folders
