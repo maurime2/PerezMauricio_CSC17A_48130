@@ -1,0 +1,5 @@
+ 567 base  8 - to base 10 - Done
+1110 base  2 - to base 10
+ ABC base 16 - to base 10
+
+Also DO BASE 8 and 16
